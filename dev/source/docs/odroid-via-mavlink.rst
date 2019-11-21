@@ -7,7 +7,7 @@ Communicating with ODroid via MAVLink
 Overview
 ========
 
-This page introduces how to connect and configure an `ODROID U3 <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G138733896281>`__, \ `ODROID-C1+ <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143703355573>`__ or `ORDOID-XU4 <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825>`__ so
+This page introduces how to connect and configure an `ODROID U3 <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G138733896281>`__, \ `ODROID-C1+ <https://www.hardkernel.com/shop/odroid-c1/>`__ or `ORDOID-XU4 <https://www.hardkernel.com/shop/odroid-xu4-special-price/>`__ so
 that it is able to communicate with a Pixhawk flight controller using
 the MAVLink protocol over a serial connection. The capabilities are very
 similar to the :ref:`Raspberry Pi <raspberry-pi-via-mavlink>` except
@@ -23,7 +23,7 @@ Recommended parts
 These parts are required:
 
 -  ODROID board
-   (`ODROID-C1+ <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143703355573>`__, \ `ORDOID-XU4 <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825>`__ or `ODROID U3 <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G138733896281>`__)
+   (`ODROID-C1+ <https://www.hardkernel.com/shop/odroid-c1/>`__, \ `ORDOID-XU4 <https://www.hardkernel.com/shop/odroid-xu4-special-price/>`__ or `ODROID U3 <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G138733896281>`__)
 -  `5V Power supply <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G134111972476>`__
 -  `DC Plug and Cable Assembly <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G138960965859>`__
 -  `8GB MicroSD Card <http://www.hardkernel.com/main/products/prdt_info.php?g_code=G138750295761>`__
